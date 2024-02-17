@@ -1,4 +1,8 @@
 let Header = () => {
-  return;
+  return(
+    <>
+      <div className="header"></div>
+    </>
+  )
 };
 export default Header;
